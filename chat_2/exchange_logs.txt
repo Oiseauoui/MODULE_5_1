@@ -1,0 +1,11 @@
+2023-11-25 19:43:56 - Exchange command executed: exchange 2 UAH
+2023-11-25 19:44:25 - Exchange command executed: exchange 2 UAH CAD AED
+2023-11-25 19:44:47 - Exchange command executed: exchange 2 UAH CAD AUD
+2023-11-25 19:53:44 - Exchange command executed: exchange
+2023-11-25 19:53:56 - Exchange command executed: exchange 2 UAH
+2023-11-25 19:57:14 - Exchange command executed: exchange
+2023-11-25 19:57:24 - Exchange command executed: exchange 2
+2023-11-25 20:00:20 - Exchange command executed: exchange
+2023-11-25 20:01:30 - Exchange command executed: exchange 11
+2023-11-25 20:02:02 - Exchange command executed: exchange 2 UAH CAD AUD
+2023-11-25 20:02:58 - Exchange command executed: exchange 2 UAH CAD AUD
